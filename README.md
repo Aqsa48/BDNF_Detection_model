@@ -1,4 +1,4 @@
-# 📌 Project Introduction: BDNF Detection from Images
+# Project Introduction: BDNF Detection from Images
 
 **Objective:**  
 Brain-Derived Neurotrophic Factor (BDNF) plays a critical role in neurodevelopment, synaptic plasticity, and cognitive function. Altered BDNF expression is associated with neurological disorders such as depression, Alzheimer's, and schizophrenia. This project aims to detect and analyze BDNF expression from biological brain images using machine learning techniques, particularly image-based deep learning models.
@@ -8,9 +8,9 @@ Build an AI-driven system that can automatically detect BDNF expression in micro
 
 ---
 
-# 📥 Data Gathering: Public Image Sources
+## Data Gathering: Public Image Sources
 
-## 🧠 Allen Brain Atlas  
+### 1.  Allen Brain Atlas  
 - **Website:** [https://mouse.brain-map.org](https://mouse.brain-map.org)  
 - **Usage:**  
   - A powerful resource for mouse brain research.
@@ -20,7 +20,7 @@ Build an AI-driven system that can automatically detect BDNF expression in micro
 
 ---
 
-## 🧬 GEO Datasets (NCBI)
+### 2. GEO Datasets (NCBI)
 - **Website:** [https://www.ncbi.nlm.nih.gov/geo/](https://www.ncbi.nlm.nih.gov/geo/)  
 - **Usage:**  
   - A repository of gene expression and image datasets.
@@ -29,7 +29,7 @@ Build an AI-driven system that can automatically detect BDNF expression in micro
 
 ---
 
-## 🧲 The Cancer Imaging Archive (TCIA)
+## 3. The Cancer Imaging Archive (TCIA)
 - **Website:** [https://www.cancerimagingarchive.net/](https://www.cancerimagingarchive.net/)  
 - **Usage:**  
   - Primarily focused on cancer and MRI/CT scans.
@@ -37,17 +37,17 @@ Build an AI-driven system that can automatically detect BDNF expression in micro
 
 ---
 
-## 🌐 Additional Repositories: Zenodo / Kaggle / Figshare
+## 4. Additional Repositories: Zenodo / Kaggle / Figshare
 
 ### 🔎 Zenodo
 - **Search:** “BDNF” or “brain immunohistochemistry”
 - Often contains raw research data, including images, from published papers.
 
-### 🐍 Kaggle
+### 5. Kaggle
 - **Search:** `BDNF brain` or related neuroscience datasets.
 - Kaggle notebooks and datasets may help with preprocessing or transfer learning.
 
-### 📂 Figshare
+### 6. Figshare
 - Another academic repository to search for BDNF-labeled images or histology slides.
 
 ---
